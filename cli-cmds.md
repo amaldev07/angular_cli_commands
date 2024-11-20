@@ -13,5 +13,5 @@ ng g c search --no-standalone
 # ---------------------------------------
 ng new my-app --standalone=false
 
---standalone=false: Ensures that the AppComponent is not created as a standalone component, and instead, it will use the traditional NgModule-based setup.
+--standalone=false: Ensures that the AppComponent is not created as a standalone component, and instead, it will use the traditional NgModule-based setup.  
 **In Angular CLI version 16 and above, Angular applications are created with standalone components by default.  
